@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hobby - Badminton</title>
+</head>
+<body>
+
+    <h1> MY HOBBY - BADMINTON</h1>
+
+    <p>
+        Badminton is my favorite hobby. I enjoy playing badminton because
+        it keeps me active, improves my fitness, and is a fun way to spend
+        my free time.   
+    </p>
+
+    <img src="https://images.unsplash.com/photo-1626224583764-f87db24ac4ea"
+         alt="Badminton racket and shuttlecock"
+         width="500">
+
+    <h2>Why I Love Badminton</h2>
+
+    <p>
+        I love badminton because it is a fast and exciting sport. It requires
+        quick reflexes, concentration, speed and good coordination. I also
+        enjoy playing badminton with my friends.
+    </p>
+
+    <ul>
+        <li>It keeps me physically fit.</li>
+        <li>It improves my reflexes.</li>
+        <li>It improves concentration.</li>
+        <li>It is fun to play with friends.</li>
+        <li>It helps reduce stress.</li>
+    </ul>
+
+
+    <h2>About Badminton</h2>
+
+    <p>
+        Badminton is a racket sport played using a racket and a shuttlecock.
+        Players hit the shuttlecock over a net and try to make it land inside
+        the opponent's court.
+    </p>
+
+    <p>
+        Badminton can be played as singles, where two players compete against
+        each other, or doubles, where four players compete in two teams.
+    </p>
+
+
+    <h2>Basic Rules of Badminton</h2>
+
+    <ol>
+        <li>A badminton match can be played in singles or doubles.</li>
+        <li>Players hit the shuttlecock over the net.</li>
+        <li>A rally ends when the shuttlecock lands outside the court.</li>
+        <li>A game is generally played to 21 points.</li>
+        <li>A player or team must win by 2 points when the score reaches 20-20.</li>
+    </ol>
+
+
+    <h2>Badminton Equipment</h2>
+
+    <p>
+        Some of the basic equipment required to play badminton is:
+    </p>
+
+    <ul>
+        <li>Badminton racket</li>
+        <li>Shuttlecock</li>
+        <li>Badminton net</li>
+        <li>Badminton shoes</li>
+        <li>Sports clothes</li>
+        <li>Badminton court</li>
+    </ul>
+
+
+
+    <h2>Badminton Gallery</h2>
+
+    <p>Badminton Racket</p>
+
+    <img src="https://images.unsplash.com/photo-1626224583764-f87db24ac4ea"
+         alt="Badminton racket"
+         width="400">
+
+    <p>Badminton Court</p>
+
+    <img src="https://images.unsplash.com/photo-1613918431703-aa50889e3be9"
+         alt="Badminton court"
+         width="400">
+
+
+    <h2>Badminton Video</h2>
+
+    <p>
+        Here is a badminton video that shows badminton gameplay:
+    </p>
+
+    <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/1Qd5YxZqJ4M"
+        title="Badminton Video">
+    </iframe>
+
+
+    <h2>My Badminton Goals</h2>
+
+    <p>
+        I want to continue improving my badminton skills and become a better
+        player. I especially want to improve my footwork, smash, stamina and
+        overall gameplay.
+    </p>
+
+    <ol>
+        <li>Improve my footwork.</li>
+        <li>Improve my smash.</li>
+        <li>Improve my stamina.</li>
+        <li>Learn advanced badminton shots.</li>
+        <li>Participate in badminton competitions.</li>
+    </ol>
+
+
+    <h2>Useful Badminton Links</h2>
+
+    <ul>
+        <li>
+            <a href="https://www.bwfbadminton.com/" target="_blank">
+                Badminton World Federation
+            </a>
+        </li>
+
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank">
+                Learn About Badminton
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.youtube.com/results?search_query=badminton+training"
+               target="_blank">
+                Badminton Training Videos
+            </a>
+        </li>
+    </ul>
+
+
+    <h2>Thank You!</h2>
+
+    <p>
+        Thank you for visiting my badminton hobby webpage!
+    </p>
+
+    <p>
+        Smash. Rally. Repeat. 🏸
+    </p>
+
+</body>
+
+
+</html>
